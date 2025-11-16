@@ -1,0 +1,11 @@
+__pycache__/
+/venv
+.venv/
+.pytest_cache/
+htmlcov/
+.coverage
+*.tmp
+output.xml
+log.html
+*.png
+report.html
